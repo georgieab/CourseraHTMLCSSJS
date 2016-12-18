@@ -42,7 +42,6 @@ article p {
   top: 0px;
   font-weight: bold;
   margin: 10px 10px 0px 10px;
-  /*border: 2px solid blue;   //TEMP*/
 }
 
 header {
@@ -57,11 +56,8 @@ header {
 .articlebody {
   height: 122px;
   position: relative;
-  /*text-align: justify;*/
   top: 42px;
-  /*float: right;*/
   overflow-y: auto;
-  /*border: 2px solid green;   //TEMP*/
 }
 
 #hd1 {
